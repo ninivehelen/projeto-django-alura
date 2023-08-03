@@ -14,9 +14,7 @@ Aprendi sobre:
 
 ### 🔧 Instalação.
 
-Após instalar o kit de desenvolvimento phaser e fazer o download do projeto. Abra os arquivo em alguma IDE de sua preferência
-e compile o arquivo game.js. Apos isso, abra o arquivo index.html para jogar o jogo. 
-
+passos para instalar as dependencias (falta escrever)
 
 ### 📋 Pré-requisitos.
 o que precisar estar instalado. falta escrever.
