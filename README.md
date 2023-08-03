@@ -6,7 +6,7 @@ Aprendi sobre:
 * Rotas.
 * Views.
 * Arquivos staticos.
-* conceito e aplicação de DRY.
+* Conceito e aplicação de DRY.
 * Boas práticas de desenvolvimento de software.
 
 # Página principal do projeto
